@@ -1,4 +1,4 @@
-import math as ma
+x = float(input())
 
 y = float(input('Введите число:  '))
 
