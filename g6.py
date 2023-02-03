@@ -1,6 +1,6 @@
 import math as ma
 
-x = float(input('Введите число:  '))
+x = float(input('Введите любое число:  '))
 
 
 print(x**5)
