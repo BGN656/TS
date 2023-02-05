@@ -8,3 +8,4 @@ print(x * ma.pi)
 print(x * ma.e)
 
 print(ma.pi)
+print(ma.e)
